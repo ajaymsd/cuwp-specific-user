@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$/../../..">
+      <sourceFolder url="file://$MODULE_DIR$/../automatic_delete_drafts" isTestSource="false" packagePrefix="AUDD" />
+      <sourceFolder url="file://$MODULE_DIR$/../buyx-getx" isTestSource="false" packagePrefix="BXGX" />
+      <sourceFolder url="file://$MODULE_DIR$/../buyx-getx" isTestSource="false" packagePrefix="bxgx" />
+      <sourceFolder url="file://$MODULE_DIR$/../checkout-upsell-woocommerce" isTestSource="false" packagePrefix="CUW" />
+      <sourceFolder url="file://$MODULE_DIR$/../frequently-bought-together" isTestSource="false" packagePrefix="FBTP" />
+      <sourceFolder url="file://$MODULE_DIR$/../sendgrid_send_email" isTestSource="false" packagePrefix="SGE" />
+      <sourceFolder url="file://$MODULE_DIR$/../show_msg_mvc" isTestSource="false" packagePrefix="SP" />
+      <sourceFolder url="file://$MODULE_DIR$/../woocommerce/packages/action-scheduler/classes" isTestSource="false" packagePrefix="Action_Scheduler" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../laraveltutorial/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../wp-includes" isTestSource="false" packagePrefix="PHPMailer" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../wp-includes/sodium_compat/tests" isTestSource="true" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

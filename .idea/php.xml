@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MessDetectorOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PHPCSFixerOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PHPCodeSnifferOptionsConfiguration">
+    <option name="highlightLevel" value="WARNING" />
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/../automatic_delete_drafts/vendor/composer" />
+      <path value="$PROJECT_DIR$/../sendgrid_send_email/vendor/composer" />
+      <path value="$PROJECT_DIR$/../frequently-bought-together/vendor/composer" />
+      <path value="$PROJECT_DIR$/../query-monitor/vendor/composer" />
+      <path value="$PROJECT_DIR$/../buyx-getx/vendor/composer" />
+      <path value="$PROJECT_DIR$/../show_msg_mvc/vendor/composer" />
+    </include_path>
+  </component>
+  <component name="PhpProjectSharedConfiguration" php_language_level="8.2">
+    <option name="suggestChangeDefaultLanguageLevel" value="false" />
+  </component>
+  <component name="PhpStanOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PsalmOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+</project>
